@@ -7,7 +7,7 @@ Calvin Hung
 
 5.9.17
 
-Mission: To establish a foundation in which future computer jobs or students can start/pick up from. 
+Mission: To establish a foundation and build a database in which Computer Science students can start/pick up from. 
 
 Vision: To eventually develop the necessary tools & programs to make an appparatus capable of distance gauging, 3D projection, and possibly more. 
 
