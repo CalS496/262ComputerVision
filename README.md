@@ -11,3 +11,4 @@ Mission: To establish a foundation in which future computer jobs or students can
 
 Vision: To eventually develop the necessary tools & programs to make an appparatus capable of distance gauging, 3D projection, and possibly more. 
 
+Inspiration: Acknowledgement to Tasha and Diane. Tasha has been blind since birth and has only just recently begun to detect color  and light. Tasha and those with a related debilitation deserve a much better product that can help them with interacting with the world. 
