@@ -1,0 +1,6 @@
+Simple observations and ideas for implementing a 3D projection feature from 2D images.
+5.5.17
+
+Use the following library from OpenCV 3.0 : http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html
+
+Seems a bit complex to follow, would suggest finding an example of usage?
