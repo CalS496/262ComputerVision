@@ -4,7 +4,7 @@ The Foundation for a Computer Vision Project Involving the Production of a Tool 
 262-Computer Vision
 CalS496
 
-5.9.17
+3.11.19
 
 Mission: To establish a foundation and build a database in which Computer Science students can start/pick up from. 
 
