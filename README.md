@@ -1,9 +1,8 @@
 # A-Vision-for-Computer-Vision
 The Foundation for a Computer Vision Project Involving the Production of a Tool to aid those in need with eyesight disabilities.
 
-CS262 - Computer Vision
-Professor John Magee
-Calvin Hung
+262-Computer Vision
+Calvin H
 
 5.9.17
 
