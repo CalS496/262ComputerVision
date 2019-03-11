@@ -2,7 +2,7 @@
 The Foundation for a Computer Vision Project Involving the Production of a Tool to aid those in need with eyesight disabilities.
 
 262-Computer Vision
-Calvin H
+CalS496
 
 5.9.17
 
